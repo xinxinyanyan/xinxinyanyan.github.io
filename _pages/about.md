@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About Me
 permalink: /
 subtitle: <a href='https://complit.uchicago.edu/'>Division of the Humanities Comparative Literature</a>, University of Chicago
 
