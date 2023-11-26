@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://complit.uchicago.edu/'>Division of the Humanities Comparative Literature</a>, University of Chicago
 
 profile:
   align: right
